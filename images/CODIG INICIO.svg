@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Creator: CorelDRAW 2019 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="5027mm" height="5027mm" version="1.0" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 502700 502700"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <font id="FontID0" horiz-adv-x="981" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="400">
+	<font-face 
+		font-family="Wingdings 3">
+		<font-face-src>
+			<font-face-name name="Wingdings 3"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="(" horiz-adv-x="704" d="M622 72l0 255.5 -102.66 -102.67 -383.67 383.5 -50.67 -50.66 383.5 -383.5 -102 -102.16 255.5 0z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Wingdings 3";font-variant:normal;font-style:normal;font-weight:normal;src:url("#FontID0") format(svg)}
+    .fil1 {fill:#E5E5E5}
+    .fil2 {fill:#E5E5E5}
+    .fil3 {fill:white}
+    .fil0 {fill:url(#id0)}
+    .fnt0 {font-weight:normal;font-size:144047.3px;font-family:'Wingdings 3'}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="-10.89" y1="251336.15" x2="502689.11" y2="251336.15">
+   <stop offset="0" style="stop-opacity:1; stop-color:#086972"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#32A18F"/>
+  </linearGradient>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0" x="-10.89" y="-13.85" width="502699.97" height="502700"/>
+  <text x="48922.7" y="176346.27"  class="fil1 fnt0">(</text>
+  <g transform="matrix(-1 -0 0 1 712086 -75003.9)">
+   <text x="251350" y="251350"  class="fil2 fnt0">(</text>
+  </g>
+  <g transform="matrix(1 0 0 -1 -202427 574321)">
+   <text x="251350" y="251350"  class="fil2 fnt0">(</text>
+  </g>
+  <g transform="matrix(-1 -0 -0 -1 712086 574321)">
+   <text x="251350" y="251350"  class="fil2 fnt0">(</text>
+  </g>
+  <path class="fil3" d="M153732.19 239148.14l0 6930.43c0,5860.22 14186.43,15260.11 24479.41,3687.62 3324.45,-3738.09 3921.16,-8495.43 6285.73,-13350.74 12886.14,-26457.56 42758.69,-44626.99 73194.31,-44626.99 23635.81,0 40464.88,4593.07 57755.58,16171.5 -3744.52,5592.54 -19134.27,17368.88 -20791.79,21947.11 -4277.4,-355.75 -31515.23,-17921.55 -62189.33,186.53 -32605.74,19248.56 -45773.41,72375.94 3926.11,101971.41 12980.15,7730 30251.56,7798.78 44673.5,4383.78 5823.6,-1378.96 7398.5,-2685.19 12070.74,-5255.59 26261.62,-14447.18 11390.41,-33134.66 3829.13,-33134.66 -15500.58,0 -11394.37,12706.53 -35808.47,12706.53 -7052.64,0 -15489.2,-4715.78 -19372.75,-8349.97 -12980.15,-12146.93 -12610.05,-30662.23 -1316.12,-42371.77 165.26,-171.2 404.24,-415.62 572.46,-583.35 21740.29,-21740.29 45889.19,1806.45 50101.28,2930.6 10304.36,2749.51 16523.29,-6796.84 22284.06,-12557.6 6442.58,-6442.58 12039.07,-12039.07 18481.65,-18482.14 13580.32,-13579.83 17037.87,-13386.86 17037.87,-25701.03 0,-7165.95 -5501.5,-10363.73 -8249.52,-12542.27 -7476.67,-5926.52 -8956.08,-9380.6 -22153.93,-15964.68 -26591.15,-13265.14 -34835.23,-13077.13 -63160.1,-13077.13 -36120.18,0 -65445.01,18349.54 -85658.89,46024.26 -3724.73,5099.73 -15990.91,22158.38 -15990.91,29058.14z"/>
+ </g>
+</svg>
